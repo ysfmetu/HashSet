@@ -1,4 +1,5 @@
 HashSet kullanımı 
+
 Hashsetler collection sınıfında türemiştir
 benzersiz liste elemanlarını tutmak için kullanırız
 kendi hash değerine göre bir sıralama yapar
